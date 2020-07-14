@@ -13,7 +13,7 @@ All four cognitive functions are used at different times depending on the circum
 Jung's personality theory formed the basis of the Myers-Briggs Type Indicator (MBTI) which is a widely used method of self-categorization of personality type through an introspective questionnaire. The relationships between MBTI type and Jungian cognitive functions are shown below. Primary cognitive functions are highlighted in green.
 
 <p align="center">
-  INTP = <span style='color:green'>Ti > Ne</span> > Si > Fe <br>
+  INTP = <span style='color:green'>some *Ti > Ne* </span> > Si > Fe <br>
   ISTP = <font color='green'>Ti > Se</font> > Ni > Fe <br>
   ENTP = <font color='green'>Ne > Ti</font> > Fe > Si <br>
   ENFP = <font color='green'>Ne > Fi</font> > Te > Si <br>
