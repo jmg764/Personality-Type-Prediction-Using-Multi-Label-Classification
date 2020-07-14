@@ -13,5 +13,5 @@ All four cognitive functions are used at different times depending on the circum
 Jung's personality theory formed the basis of the Myers-Briggs Type Indicator (MBTI) which is a widely used method of self-categorization of personality type through an introspective questionnaire. The relationships between MBTI type and Jungian cognitive functions are shown below. Primary cognitive functions are highlighted in green.
 
 <p align="center">
-  <img src="images/mbti_cognitive_functions_relationship.png"  alt="drawing" width="200"/>
+  <img src="images/mbti_cognitive_functions_relationship.png"  alt="drawing" width="175"/>
 </p>
