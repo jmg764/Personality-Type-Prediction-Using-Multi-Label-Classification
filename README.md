@@ -12,21 +12,21 @@ All four cognitive functions are used at different times depending on the circum
 
 Jung's personality theory formed the basis of the Myers-Briggs Type Indicator (MBTI) which is a widely used method of self-categorization of personality type through an introspective questionnaire. The relationships between MBTI type and Jungian cognitive functions are shown below. Primary cognitive functions are highlighted in green.
 
-<br>
-<center>INTP = <font color='green'>Ti > Ne</font> > Si > Fe <br></center>
-<center>ISTP = <font color='green'>Ti > Se</font> > Ni > Fe <br></center>
-<center>ENTP = <font color='green'>Ne > Ti</font> > Fe > Si <br></center>
-<center>ENFP = <font color='green'>Ne > Fi</font> > Te > Si <br></center>
-<center>ISFP = <font color='green'>Fi > Se</font> > Ni > Te <br></center>
-<center>INFP = <font color='green'>Fi > Ne</font> > Si > Te <br></center>
-<center>INTJ = <font color='green'>Ni > Te</font> > Fi > Se <br></center>
-<center>INFJ = <font color='green'>Ni > Fe</font> > Ti > Se <br></center>
-<center>ESTJ = <font color='green'>Te > Si</font> > Ne > Fi <br></center>
-<center>ENTJ = <font color='green'>Te > Ni</font> > Se > Fi <br></center>
-<center>ESFJ = <font color='green'>Fe > Si</font> > Ne > Ti <br></center>
-<center>ENFJ = <font color='green'>Fe > Ni</font> > Se > Ti <br></center>
-<center>ISTJ = <font color='green'>Si > Te</font> > Fi > Ne <br></center>
-<center>ISFJ = <font color='green'>Si > Fe</font> > Ti > Ne <br></center>
-<center>ESTP = <font color='green'>Se > Ti</font> > Fe > Ni <br></center>
-<center>ESFP = <font color='green'>Se > Fi</font> > Te > Ni <br></center>
-
+<p align="center">
+  INTP = <font color='green'>Ti > Ne</font> > Si > Fe <br>
+  ISTP = <font color='green'>Ti > Se</font> > Ni > Fe <br>
+  ENTP = <font color='green'>Ne > Ti</font> > Fe > Si <br>
+  ENFP = <font color='green'>Ne > Fi</font> > Te > Si <br>
+  ISFP = <font color='green'>Fi > Se</font> > Ni > Te <br>
+  INFP = <font color='green'>Fi > Ne</font> > Si > Te <br>
+  INTJ = <font color='green'>Ni > Te</font> > Fi > Se <br>
+  INFJ = <font color='green'>Ni > Fe</font> > Ti > Se <br>
+  ESTJ = <font color='green'>Te > Si</font> > Ne > Fi <br>
+  ENTJ = <font color='green'>Te > Ni</font> > Se > Fi <br>
+  ESFJ = <font color='green'>Fe > Si</font> > Ne > Ti <br>
+  ENFJ = <font color='green'>Fe > Ni</font> > Se > Ti <br>
+  ISTJ = <font color='green'>Si > Te</font> > Fi > Ne <br>
+  ISFJ = <font color='green'>Si > Fe</font> > Ti > Ne <br>
+  ESTP = <font color='green'>Se > Ti</font> > Fe > Ni <br>
+  ESFP = <font color='green'>Se > Fi</font> > Te > Ni <br>
+</p>
