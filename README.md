@@ -1,5 +1,5 @@
 # Predicting-Personality-from-Text-An-Analysis-of-Multi-Label-Classification-Methods
-
+## Background
 Carl Jung, founder of the field of analytical psychology, formulated a personality theory aiming to categorize people based on how they process information. He identified two types of cognitive functions: two perception functions known as sensation and intuition, and two judgement functions known as thinking and feeling. The functions within each pair are considered to be opposites of each other. 
 
 <p align="center">
@@ -15,3 +15,36 @@ Jung's personality theory formed the basis of the Myers-Briggs Type Indicator (M
 <p align="center">
   <img src="images/mbti_cognitive_functions_relationship.png"  alt="drawing" width="175"/>
 </p>
+
+## Objective
+The objective is to develop a machine learning model which can can accurately predict a person's two primary cognitive functions based off of what they have written. In doing so, the following multi-label classification techniques are implemented and compared: 
+
+<ol start="1">
+  <li><b>Problem transformation, algorithm adaptation, and ensemble approaches</b></li>
+ 
+<ol type="a">
+  <li>Problem transformation approaches</li>
+    <ul type="disc">
+      <li>Binary relevance</li>
+      <li>Classifier chain</li>
+      <li>Label powerset</li>
+    </ul>
+  <li>Algorithm adaptation approaches</li>
+    <ul type="disc">
+        <li>Multi-label k-nearest neighbors (MLkNN)</li> 
+        <li>Multi-label hierarchical ARAM neural network (MLARAM)</li>  
+    </ul>
+    <li>Ensembles of classifiers</li>
+    <ul type="disc">
+        <li>Random label space partitioning with label powerset (RAkELd)</li>  
+    </ul>
+</ol>
+  <li><b>Neural networks using Keras</b></li>
+    <ul type="disc">
+      <li>Long short-term memory networks (LSTM)</li>
+      <li>1D convolutional neural networks (CNN)</li>
+    </ul>
+  <li><b>Bidirectional Encoder Representations from Transformers (BERT)</b></li>
+  </ol>
+
+The [dataset](https://data.world/just4jcgeorge/myers-briggs-personality-type-test-dataset) used contains a large selection of people's MBTI personality types and text they have written on a forum called Personality Cafe: a community dedicated to discussion about personality types.
