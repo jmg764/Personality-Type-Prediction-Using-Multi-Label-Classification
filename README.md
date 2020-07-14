@@ -2,7 +2,7 @@
 
 Carl Jung, founder of the field of analytical psychology, formulated a personality theory aiming to categorize people based on how they process information. He identified two types of cognitive functions: two perception functions known as sensation and intuition, and two judgement functions known as thinking and feeling. The functions within each pair are considered to be opposites of each other. 
 
-<img src="cognitive_functions_diagram.png"  alt="drawing" width="325"/>
+<img src="cognitive_functions_diagram.png"  alt="drawing" width="325", class="center"/>
 
 Additionally, these four functions operate in conjunction with either an introverted or extroverted attitude. This results in eight functional variations, or personality types: extroverted sensing (Se), introverted sensing(Si), extroverted intuition (Ne), introverted intuition (Ni), extroverted feeling (Fe), introverted feeling (Fi), extroverted thinking (Te), and introverted thinking (Ti). 
 
