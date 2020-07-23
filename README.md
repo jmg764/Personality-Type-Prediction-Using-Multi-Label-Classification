@@ -1,4 +1,7 @@
-# Personality Type Prediction using Multi-Label Classification
+# Personality Type Prediction Using Multi-Label Classification
+
+Code can be found in [this notebook](https://github.com/jmg764/Personality-Type-Prediction-Using-Multi-Label-Classification/blob/master/Personality%20Type%20Prediction%20using%20Multi-Label%20Classification.ipynb).
+
 ## Background
 Carl Jung, founder of the field of analytical psychology, formulated a personality theory aiming to categorize people based on how they process information. He identified two types of cognitive functions: two perception functions known as sensation and intuition, and two judgement functions known as thinking and feeling. The functions within each pair are considered to be opposites of each other. 
 
